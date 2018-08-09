@@ -1,4 +1,4 @@
-Hours
+Fork of Hours
 =====
 
 [![Build Status](https://travis-ci.org/DefactoSoftware/Hours.svg?branch=master)](https://travis-ci.org/DefactoSoftware/Hours)
